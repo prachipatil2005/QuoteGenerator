@@ -1,0 +1,42 @@
+#header{
+
+    /* display: flex; */
+    text-align: center;
+
+
+}
+
+.container{
+    height: 100%;
+    /* display: flex; */
+    text-align: center;
+    margin-top: 80px;
+    justify-content: center;
+
+
+
+}
+
+#b1{
+    font-size: 20px;
+    font-weight: 600;
+
+    padding: 15px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+.dark-mode{
+    background-color: gray;
+    
+}
+#toggler{
+    border-radius: 100px;
+    padding: 10px;
+    
+}
+
+.toggle_div{
+    /* display: flex; */
+    margin-left: 10px;
+    margin-top: -55px;
+}
